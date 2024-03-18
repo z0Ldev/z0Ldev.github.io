@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da110c6e.css",
+    "main.js": "/static/js/main.e1057c42.js",
+    "static/js/787.ceaf72fc.chunk.js": "/static/js/787.ceaf72fc.chunk.js",
+    "static/media/z-logo.png": "/static/media/z-logo.7c0b5397e970e54d893d.png",
+    "static/media/Avenir Next Condensed.woff2": "/static/media/Avenir Next Condensed.c576dba1b7290a2c3a49.woff2",
+    "static/media/ethereum-logo.png": "/static/media/ethereum-logo.5afb7ab91852e06e9b92.png",
+    "static/media/futura.ttf": "/static/media/futura.71d20cae1da6df8d2a23.ttf",
+    "static/media/solidity-logo.png": "/static/media/solidity-logo.024069ddf171af334e73.png",
+    "static/media/z-sub.png": "/static/media/z-sub.a57efd371c3923b18461.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/index.html",
+    "main.da110c6e.css.map": "/static/css/main.da110c6e.css.map",
+    "main.e1057c42.js.map": "/static/js/main.e1057c42.js.map",
+    "787.ceaf72fc.chunk.js.map": "/static/js/787.ceaf72fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da110c6e.css",
+    "static/js/main.e1057c42.js"
+  ]
+}
